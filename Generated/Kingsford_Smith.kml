@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema name="Export_NSW_Min_Label_LineString" id="Export_NSW_Min_Label_LineString">
+      <SimpleField name="Elect_div" type="string">
+      </SimpleField>
+    </Schema>
+    <Folder>
+      <name>TemplateX</name>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#National">
+            <SimpleData name="Elect_div">Kingsford Smith</SimpleData>
+            <SimpleData name="State">NSW</SimpleData>
+            <SimpleData name="Numccds">384</SimpleData>
+            <SimpleData name="Actual">0</SimpleData>
+            <SimpleData name="Projected">0</SimpleData>
+            <SimpleData name="Total_Population">0</SimpleData>
+            <SimpleData name="Australians_Over_18">0</SimpleData>
+            <SimpleData name="Area_SqKm">91.0272205469611</SimpleData>
+            <SimpleData name="Sortname">Kingsford Smith</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>151.268249,-33.915175,0 151.268249,-33.915175,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>151.266058,-33.925545,0 151.26605,-33.925427,0 151.265897,-33.925461,0 151.265823,-33.925388,0 151.265629,-33.92534,0 151.265476,-33.925374,0 151.265344,-33.925508,0 151.265191,-33.925551,0 151.265076,-33.925883,0 151.265159,-33.926092,0 151.265447,-33.926312,0 151.265587,-33.926341,0 151.265717,-33.926334,0 151.265834,-33.926435,0 151.265966,-33.926311,0 151.266048,-33.926041,0 151.265898,-33.925967,0 151.265733,-33.926046,0 151.265595,-33.925944,0 151.265706,-33.925811,0 151.265903,-33.925696,0 151.265937,-33.925624,0 151.266058,-33.925545,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
