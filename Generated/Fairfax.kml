@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema name="Export_NSW_Min_Label_LineString" id="Export_NSW_Min_Label_LineString">
+      <SimpleField name="Elect_div" type="string">
+      </SimpleField>
+    </Schema>
+    <Folder>
+      <name>TemplateX</name>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#National">
+            <SimpleData name="Elect_div">Fairfax</SimpleData>
+            <SimpleData name="State">QLD</SimpleData>
+            <SimpleData name="Numccds">232</SimpleData>
+            <SimpleData name="Actual">0</SimpleData>
+            <SimpleData name="Projected">0</SimpleData>
+            <SimpleData name="Total_Population">0</SimpleData>
+            <SimpleData name="Australians_Over_18">0</SimpleData>
+            <SimpleData name="Area_SqKm">1035.94930080889</SimpleData>
+            <SimpleData name="Sortname">FAIRFAX</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>152.845007,-26.677339,0 152.845007,-26.677339,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>153.113999,-26.614992,0 153.113957,-26.614915,0 153.113678,-26.614663,0 153.113594,-26.614528,0 153.113444,-26.614393,0 153.11325,-26.614295,0 153.113122,-26.614178,0 153.113122,-26.614121,0 153.113211,-26.614046,0 153.113514,-26.61405,0 153.113644,-26.61409,0 153.114034,-26.614114,0 153.114253,-26.613984,0 153.114557,-26.613969,0 153.115052,-26.614186,0 153.115181,-26.614302,0 153.115244,-26.614418,0 153.115471,-26.614589,0 153.115578,-26.614651,0 153.115709,-26.614651,0 153.1158,-26.614679,0 153.115822,-26.614742,0 153.115794,-26.61481,0 153.115822,-26.614907,0 153.115811,-26.615049,0 153.115709,-26.615174,0 153.115584,-26.615236,0 153.115189,-26.61518,0 153.115059,-26.615217,0 153.114927,-26.615329,0 153.114796,-26.615347,0 153.114474,-26.615132,0 153.11428,-26.615072,0 153.114171,-26.615071,0 153.113999,-26.614992,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema name="Export_NSW_Min_Label_LineString" id="Export_NSW_Min_Label_LineString">
+      <SimpleField name="Elect_div" type="string">
+      </SimpleField>
+    </Schema>
+    <Folder>
+      <name>TemplateX</name>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#National">
+            <SimpleData name="Elect_div">Barker</SimpleData>
+            <SimpleData name="State">SA</SimpleData>
+            <SimpleData name="Numccds">343</SimpleData>
+            <SimpleData name="Actual">0</SimpleData>
+            <SimpleData name="Projected">0</SimpleData>
+            <SimpleData name="Total_Population">0</SimpleData>
+            <SimpleData name="Australians_Over_18">0</SimpleData>
+            <SimpleData name="Area_SqKm">63885.7131751607</SimpleData>
+            <SimpleData name="Sortname">Barker</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>141.002956,-34.02152,0 141.002956,-34.02152,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>140.011968,-37.494746,0 140.011897,-37.494498,0 140.011578,-37.493772,0 140.011507,-37.493717,0 140.011366,-37.493732,0 140.010992,-37.493837,0 140.010547,-37.493828,0 140.010476,-37.493851,0 140.010443,-37.494202,0 140.01038,-37.494337,0 140.009247,-37.494997,0 140.009216,-37.495127,0 140.009208,-37.495368,0 140.009274,-37.495447,0 140.009344,-37.495481,0 140.010015,-37.495483,0 140.010242,-37.495667,0 140.010292,-37.495757,0 140.010266,-37.495915,0 140.010223,-37.495949,0 140.009913,-37.495957,0 140.009864,-37.495985,0 140.009872,-37.496064,0 140.009971,-37.496198,0 140.010397,-37.496513,0 140.01083,-37.496504,0 140.011253,-37.496355,0 140.011762,-37.496296,0 140.011833,-37.49624,0 140.011832,-37.496139,0 140.011639,-37.495906,0 140.01158,-37.495785,0 140.011579,-37.495706,0 140.011929,-37.495196,0 140.011968,-37.494746,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>140.014838,-37.499744,0 140.014818,-37.499498,0 140.014521,-37.499046,0 140.014508,-37.498707,0 140.014423,-37.498551,0 140.014318,-37.498418,0 140.013995,-37.497789,0 140.013888,-37.497711,0 140.013549,-37.497701,0 140.012914,-37.497868,0 140.012864,-37.497925,0 140.012844,-37.498025,0 140.012858,-37.498144,0 140.012959,-37.49854,0 140.012951,-37.498593,0 140.013106,-37.498695,0 140.013701,-37.498978,0 140.014645,-37.499673,0 140.014767,-37.499744,0 140.014838,-37.499744,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>140.006385,-37.499691,0 140.00585,-37.499534,0 140.005615,-37.499412,0 140.005517,-37.498809,0 140.005411,-37.498696,0 140.005266,-37.498653,0 140.004973,-37.498634,0 140.004689,-37.498758,0 140.004555,-37.498899,0 140.004575,-37.499011,0 140.00477,-37.499221,0 140.005323,-37.500004,0 140.005493,-37.500139,0 140.005981,-37.500208,0 140.006342,-37.500005,0 140.006379,-37.499926,0 140.006385,-37.499691,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>140.569976,-38.020248,0 140.569974,-38.019893,0 140.569918,-38.019871,0 140.569542,-38.019872,0 140.56942,-38.019898,0 140.568905,-38.02011,0 140.56876,-38.020227,0 140.568556,-38.020334,0 140.568205,-38.020459,0 140.568082,-38.020542,0 140.568087,-38.02066,0 140.568476,-38.020806,0 140.568774,-38.020865,0 140.569217,-38.020843,0 140.569939,-38.020327,0 140.569976,-38.020248,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>140.013872,-37.49735,0 140.013862,-37.497204,0 140.013728,-37.497036,0 140.013454,-37.496865,0 140.013229,-37.496779,0 140.013145,-37.496779,0 140.013066,-37.496825,0 140.012907,-37.497017,0 140.012908,-37.497108,0 140.013048,-37.497257,0 140.013122,-37.497309,0 140.013355,-37.497393,0 140.013476,-37.497431,0 140.013788,-37.497441,0 140.013844,-37.497408,0 140.013872,-37.49735,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>140.008307,-37.498685,0 140.008307,-37.498685,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>140.316893,-37.796241,0 140.316893,-37.796241,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>140.318982,-37.79572,0 140.318898,-37.795515,0 140.318617,-37.795377,0 140.318247,-37.79542,0 140.318189,-37.79544,0 140.318133,-37.795531,0 140.318184,-37.795802,0 140.318327,-37.795916,0 140.318523,-37.795917,0 140.318639,-37.795852,0 140.318839,-37.795831,0 140.318982,-37.79572,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>139.995654,-37.481356,0 139.995474,-37.481197,0 139.995426,-37.481116,0 139.99535,-37.480774,0 139.99511,-37.480753,0 139.994947,-37.480876,0 139.994985,-37.481135,0 139.99505,-37.481323,0 139.995125,-37.481411,0 139.995334,-37.481469,0 139.995537,-37.481501,0 139.995641,-37.4815,0 139.995654,-37.481356,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>140.293501,-37.760941,0 140.293421,-37.760603,0 140.293351,-37.760546,0 140.292868,-37.760564,0 140.292768,-37.760597,0 140.292781,-37.760664,0 140.292865,-37.760728,0 140.293005,-37.760937,0 140.293241,-37.761034,0 140.293386,-37.761054,0 140.293485,-37.761043,0 140.293501,-37.760941,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>140.135461,-37.590726,0 140.135375,-37.590637,0 140.135176,-37.590591,0 140.134808,-37.590794,0 140.134779,-37.590862,0 140.134808,-37.591044,0 140.134894,-37.59111,0 140.135064,-37.59111,0 140.135262,-37.591043,0 140.135461,-37.590908,0 140.135461,-37.590726,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>140.151719,-37.602158,0 140.151719,-37.602158,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>140.666516,-38.059971,0 140.666516,-38.059971,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>140.661698,-38.061127,0 140.661698,-38.061127,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>140.317642,-37.797013,0 140.317636,-37.796946,0 140.317589,-37.796833,0 140.31704,-37.796822,0 140.31692,-37.796838,0 140.316833,-37.796905,0 140.316852,-37.797058,0 140.317157,-37.797167,0 140.317554,-37.797126,0 140.317642,-37.797013,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>139.847928,-37.325854,0 139.847851,-37.325578,0 139.847689,-37.32546,0 139.847165,-37.325416,0 139.847102,-37.32546,0 139.847109,-37.325551,0 139.847223,-37.325674,0 139.847507,-37.325726,0 139.847759,-37.325866,0 139.8479,-37.325877,0 139.847928,-37.325854,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>140.66161,-38.061778,0 140.661524,-38.061708,0 140.661027,-38.061669,0 140.660825,-38.061769,0 140.660837,-38.061904,0 140.660923,-38.061972,0 140.661405,-38.062046,0 140.661549,-38.061956,0 140.66161,-38.061778,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>140.66095,-38.062446,0 140.660945,-38.062396,0 140.660915,-38.062357,0 140.660801,-38.062309,0 140.660181,-38.06233,0 140.660038,-38.062379,0 140.660052,-38.062442,0 140.660242,-38.062574,0 140.660455,-38.062599,0 140.660804,-38.062603,0 140.660905,-38.062531,0 140.66095,-38.062446,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>140.662893,-38.061803,0 140.662893,-38.061803,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>140.769049,-38.058345,0 140.76891,-38.05823,0 140.76871,-38.058249,0 140.768505,-38.058404,0 140.768502,-38.058516,0 140.76864,-38.058653,0 140.768898,-38.058658,0 140.769043,-38.058549,0 140.769049,-38.058345,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>140.132684,-37.588855,0 140.132656,-37.58872,0 140.132515,-37.588608,0 140.132316,-37.588631,0 140.132175,-37.588766,0 140.132175,-37.588924,0 140.132258,-37.58899,0 140.132543,-37.588991,0 140.132601,-37.588968,0 140.132656,-37.588924,0 140.132684,-37.588855,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>140.660385,-38.060106,0 140.660215,-38.06005,0 140.6599,-38.060035,0 140.659756,-38.060088,0 140.659924,-38.060294,0 140.660039,-38.060341,0 140.660294,-38.060321,0 140.660382,-38.060253,0 140.660385,-38.060106,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>140.664081,-38.060227,0 140.664081,-38.060227,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>139.736822,-37.176973,0 139.736808,-37.176825,0 139.736719,-37.17676,0 139.736596,-37.176773,0 139.736491,-37.176809,0 139.736394,-37.176938,0 139.736438,-37.177041,0 139.736492,-37.177082,0 139.736714,-37.177062,0 139.736822,-37.176973,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>140.131041,-37.589578,0 140.131041,-37.589578,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>140.135156,-37.588604,0 140.135156,-37.588604,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>140.131353,-37.589408,0 140.131282,-37.589328,0 140.130975,-37.589359,0 140.131003,-37.589462,0 140.131063,-37.589572,0 140.131339,-37.589492,0 140.131353,-37.589408,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

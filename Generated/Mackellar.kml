@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema name="Export_NSW_Min_Label_LineString" id="Export_NSW_Min_Label_LineString">
+      <SimpleField name="Elect_div" type="string">
+      </SimpleField>
+    </Schema>
+    <Folder>
+      <name>TemplateX</name>
+      <Placemark>
+        <Style>
+          <LineStyle>
+            <color>ff0000ff</color>
+          </LineStyle>
+          <PolyStyle>
+            <fill>0</fill>
+          </PolyStyle>
+        </Style>
+        <ExtendedData>
+          <SchemaData schemaUrl="#National">
+            <SimpleData name="Elect_div">Mackellar</SimpleData>
+            <SimpleData name="State">NSW</SimpleData>
+            <SimpleData name="Numccds">366</SimpleData>
+            <SimpleData name="Actual">0</SimpleData>
+            <SimpleData name="Projected">0</SimpleData>
+            <SimpleData name="Total_Population">0</SimpleData>
+            <SimpleData name="Australians_Over_18">0</SimpleData>
+            <SimpleData name="Area_SqKm">233.244859964962</SimpleData>
+            <SimpleData name="Sortname">Mackellar</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>151.343021,-33.624508,0 151.343021,-33.624508,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+            <innerBoundaryIs>
+              <LinearRing>
+                <coordinates>151.289649,-33.642212 151.289646,-33.642211 151.289646,-33.642211 151.289649,-33.642212</coordinates>
+              </LinearRing>
+            </innerBoundaryIs>
+            <innerBoundaryIs>
+              <LinearRing>
+                <coordinates>151.289743,-33.642239 151.289743,-33.642239 151.289743,-33.642239 151.289743,-33.642239</coordinates>
+              </LinearRing>
+            </innerBoundaryIs>
+            <innerBoundaryIs>
+              <LinearRing>
+                <coordinates>151.281686,-33.638094 151.281682,-33.638094 151.281684,-33.638094 151.281686,-33.638094</coordinates>
+              </LinearRing>
+            </innerBoundaryIs>
+            <innerBoundaryIs>
+              <LinearRing>
+                <coordinates>151.325975,-33.611654 151.325975,-33.611654 151.325959,-33.611643 151.325975,-33.611654</coordinates>
+              </LinearRing>
+            </innerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>151.330449,-33.660885,0 151.330437,-33.66085,0 151.330333,-33.660739,0 151.330316,-33.660701,0 151.330356,-33.660583,0 151.330335,-33.660528,0 151.330094,-33.660411,0 151.329831,-33.660313,0 151.329615,-33.660196,0 151.32946,-33.660179,0 151.32932,-33.660198,0 151.329169,-33.660248,0 151.32901,-33.66034,0 151.328975,-33.660336,0 151.328838,-33.660285,0 151.328624,-33.660145,0 151.328581,-33.660128,0 151.328518,-33.660127,0 151.328424,-33.660048,0 151.328316,-33.659997,0 151.328023,-33.659994,0 151.327841,-33.659928,0 151.327713,-33.659858,0 151.327678,-33.659863,0 151.327639,-33.659899,0 151.327642,-33.659961,0 151.327659,-33.659979,0 151.327841,-33.66003,0 151.327977,-33.660137,0 151.328058,-33.660165,0 151.328324,-33.660215,0 151.328481,-33.660281,0 151.328591,-33.66038,0 151.328638,-33.660524,0 151.32866,-33.660549,0 151.328854,-33.660639,0 151.328867,-33.660676,0 151.328845,-33.660735,0 151.328856,-33.660758,0 151.328902,-33.660781,0 151.32903,-33.66076,0 151.329082,-33.660875,0 151.329183,-33.660823,0 151.32924,-33.660933,0 151.329265,-33.660944,0 151.329309,-33.660931,0 151.329398,-33.660969,0 151.329432,-33.660965,0 151.329496,-33.660891,0 151.329531,-33.660774,0 151.329686,-33.660768,0 151.329778,-33.660709,0 151.329848,-33.660717,0 151.329925,-33.660753,0 151.329993,-33.660798,0 151.330111,-33.660919,0 151.330271,-33.660983,0 151.330344,-33.660998,0 151.330401,-33.660991,0 151.330431,-33.660957,0 151.330449,-33.660885,0</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
