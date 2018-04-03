@@ -38,6 +38,8 @@
             </outerBoundaryIs>
           </Polygon>
 
+          
+      <!--   
           <Polygon>
             <outerBoundaryIs>
               <LinearRing>
@@ -59,6 +61,8 @@
               </LinearRing>
             </outerBoundaryIs>
           </Polygon>
+          -->
+          
           <Polygon>
             <outerBoundaryIs>
               <LinearRing>
