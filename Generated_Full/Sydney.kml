@@ -37,6 +37,8 @@
               </LinearRing>
             </outerBoundaryIs>
           </Polygon>
+          <!--
+          Lord Howe island. 
           <Polygon>
             <outerBoundaryIs>
               <LinearRing>
@@ -44,6 +46,8 @@
               </LinearRing>
             </outerBoundaryIs>
           </Polygon>
+          
+          -->
           <Polygon>
             <outerBoundaryIs>
               <LinearRing>
